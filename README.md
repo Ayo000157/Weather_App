@@ -35,7 +35,7 @@ Users can input a city name, and the app connects to the OpenWeather API to fetc
 	•	Add weather icons and background images for different conditions
 	•	Show 5-day weather forecast
 	•	Add unit selection (°C / °F)
-	•	Deploy to Render, Vercel, or PythonAnywhere
+	•	Deploy to Render
 
 👨‍💻 Author
 Oyewole Rofeeq Muhammad
